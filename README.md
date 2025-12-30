@@ -59,10 +59,5 @@ Applied to engineering:
 ---
 
 
-###
+![Snake animation](https://github.com/mashtura-m/mashtura-m/blob/output/snake.svg)
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
-
-###
