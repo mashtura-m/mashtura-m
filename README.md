@@ -47,7 +47,7 @@
   </a>
 </div>
 
-## 🌀 Naruto-Inspired Engineering Mindset
+## 🌀 Engineering Mindset
 
 > *“A true ninja never gives up.”*
 
